@@ -2,10 +2,6 @@
 
 **🗣️ Starting May 7, join weekly expert-led Q&A sessions to ask questions and get feedback from course lecturers and mentors.**
 
-**🎓 Sign up for the intro session — it’s happening on May 7 at 7 PM CET:**
-
-**👉 [Join the welcome session](https://nebius.zoom.us/webinar/register/2017452395379/WN_fRQs-XofSzivwkNQUfGxBA)**
-
 ## 📌 Quick start
 
 Get hands-on with LLM APIs and self-hosted models as you code, experiment, and build your own platform for custom AI-powered NPCs.
@@ -69,7 +65,7 @@ During the course, you'll build a platform that serves intelligent, believable, 
 
 ## 💬 Join the community
 
-Connect with experts, engage in discussions, ask questions, and share insights, experiences, and feedback with fellow learners on Discord. Stay in the loop — live session announcements will be posted there, too!
+Connect with experts, engage in discussions, ask questions, and share insights, experiences, and feedback with fellow learners [on Discord](https://discord.com/invite/WJ2DUQRz4m). Stay in the loop — live session announcements will be posted there, too!
 
 For updates, you can also subscribe to our newsletter.
 
